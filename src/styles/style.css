@@ -1,0 +1,76 @@
+html {
+  scroll-behavior: smooth;
+}
+@font-face {
+  src: url(../../static/SpaceGrotesk-Regular.ttf);
+  src: url(../../static/SpaceGrotesk-Light.ttf);
+  src: url(../../static/SpaceGrotesk-Medium.ttf);
+  src: url(../../static/SpaceGrotesk-Bold.ttf);
+  src: url(../../static/SpaceGrotesk-SemiBold.ttf);
+  src: url(../../static/GT-Walsheim-Pro-Light.ttf);
+  font-family: "Space Grotesk";
+}
+@font-face {
+  src: url(../../static/SpaceGrotesk-SemiBold.ttf);
+  font-family: "Space Grotesk";
+  font-style: normal;
+  font-weight: 600;
+}
+@font-face {
+  src: url(../../static/SpaceGrotesk-Bold.ttf);
+  font-family: "Space Grotesk";
+  font-style: normal;
+  font-weight: bold;
+}
+@font-face {
+  src: url(../../static/GT-Walsheim-Pro-Light.ttf);
+  font-family: "GT Walsheim Pro Light";
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.old {
+  margin-top: -56px;
+}
+
+a {
+  text-decoration: none;
+  list-style: none;
+  color: #61be4e;
+}
+
+.hXQwGq {
+  background-color: #bfe8b6 !important;
+  border: #bfe8b6 !important;
+  box-shadow: rgba(191, 232, 182, 0.5) 0px 0px 1px 2px !important;
+}
+.hXQwGq button {
+  border-color: #bfe8b6 !important;
+}
+.abcotv body {
+  background: transparent !important;
+}
+.QmVdP,
+.kbDIuN {
+  background-color: #61be4e !important;
+  box-shadow: 0 0 1px 3px #61be4e !important;
+}
+.dautGI:hover,
+.dautGI:focus {
+  outline: none !important;
+  background-color: transparent;
+  font-size: 1.3em;
+  content: "";
+  height: 10px;
+  width: 10px;
+  box-shadow: 0 0 1px 2px rgba(0, 0, 0, 0.5) !important;
+  border-radius: 50%;
+  outline: none;
+}
+.rec-slider div:focus {
+  outline: none !important;
+  border: none !important;
+}
