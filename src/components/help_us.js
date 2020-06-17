@@ -90,7 +90,7 @@ class HelpUs extends Component {
         >
           <h3>Donate</h3>
           <p>Support our cause and make a difference!</p>
-          <Link to="/donate">
+          <a href="/donate">
             <div style={{ marginTop: "3.8rem", color: "#61be4e" }}>
               <b>
                 {" "}
@@ -101,7 +101,7 @@ class HelpUs extends Component {
                 />
               </b>
             </div>
-          </Link>
+          </a>
         </div>
         <style jsx>
           {`

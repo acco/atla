@@ -2,7 +2,6 @@ import React from "react"
 import facebook from "../images/fb.png"
 import insta from "../images/insta.png"
 import twitter from "../images/twitter.png"
-import { Link } from "gatsby"
 
 const Footer = () => {
   return (
@@ -28,9 +27,9 @@ const Footer = () => {
           >
             <p>Volunteer</p>
           </a>
-          <Link to="/donate">
+          <a href="/donate">
             <p>Donate</p>
-          </Link>
+          </a>
         </div>
         <div className="copyright">
           <p>2020 AllTogether LA</p>

@@ -18,7 +18,7 @@ const Header = () => {
               />
             </button>
           </a>
-          <Link to="/donate">
+          <a href="/donate">
             <button>
               Donate{" "}
               <BsArrowRight
@@ -26,7 +26,7 @@ const Header = () => {
                 style={{ verticalAlign: "middle" }}
               />
             </button>
-          </Link>
+          </a>
         </div>
       </nav>
       <header>
