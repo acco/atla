@@ -7,7 +7,7 @@ class Stories extends Component {
     return (
       <div className="section_8" id="stories">
         <h1>Stories</h1>
-        <p>
+        {/* <p>
           Hear directly from the community members we’ve been able to help!{" "}
         </p>
         <div className="reviews">
@@ -41,7 +41,7 @@ class Stories extends Component {
               enim ad minim veniam, quis nostrud{" "}
             </p>
           </div>
-        </div>
+        </div> */}
         <div className="update">
           <a href="https://www.instagram.com/alltogetherla/">
             {" "}
