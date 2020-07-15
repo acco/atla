@@ -1,7 +1,7 @@
 import React from "react"
-import facebook from "../images/fb.webp"
-import insta from "../images/insta.webp"
-import twitter from "../images/twitter.webp"
+import facebook from "../images/fb.png"
+import insta from "../images/insta.png"
+import twitter from "../images/twitter.png"
 
 const Footer = () => {
   return (

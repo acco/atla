@@ -1,5 +1,5 @@
 import React, { Component } from "react"
-import landing from "../images/landing.webp"
+import landing from "../images/landing.png"
 
 class Contact extends Component {
   render() {

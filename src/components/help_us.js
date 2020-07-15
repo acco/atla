@@ -1,8 +1,8 @@
 import React, { Component } from "react"
 import { BsArrowRight } from "react-icons/bs"
-import man from "../images/man.webp"
-import hand from "../images/hand.webp"
-import heart from "../images/heart.webp"
+import man from "../images/man.png"
+import hand from "../images/hand.png"
+import heart from "../images/heart.png"
 import { Link } from "gatsby"
 
 class HelpUs extends Component {

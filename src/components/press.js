@@ -1,10 +1,10 @@
 import React, { Component } from "react"
 import Carousel from "react-elastic-carousel"
 
-import ration from "../images/ration.webp"
-import santamonica from "../images/santamonica.webp"
-import press from "../images/press.webp"
-import covid from "../images/covid.webp"
+import ration from "../images/ration.png"
+import santamonica from "../images/santamonica.png"
+import press from "../images/press.png"
+import covid from "../images/covid.png"
 
 class Press extends Component {
   render() {

@@ -1,13 +1,13 @@
 import React, { Component } from "react"
-import Lorena from "../images/Lorena.webp"
-import Anthony from "../images/Anthony.webp"
-import Ben from "../images/Ben.webp"
-import Eric from "../images/Eric.webp"
-import Mitch from "../images/Mitch.webp"
-import Kayla from "../images/Kayla.webp"
-import Nisha from "../images/Nisah.webp"
-import Priya from "../images/Priya.webp"
-import Jayen from "../images/Jayen.webp"
+import Lorena from "../images/Lorena.png"
+import Anthony from "../images/Anthony.png"
+import Ben from "../images/Ben.png"
+import Eric from "../images/Eric.png"
+import Mitch from "../images/Mitch.png"
+import Kayla from "../images/Kayla.png"
+import Nisha from "../images/Nisah.png"
+import Priya from "../images/Priya.png"
+import Jayen from "../images/Jayen.png"
 
 class About extends Component {
   render() {

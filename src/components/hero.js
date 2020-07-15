@@ -37,7 +37,7 @@ const Hero = () => {
             display: flex;
             justify-content: space-between;
             background-color: #000000;
-            background: url('${require("../images/background-img.webp")}') no-repeat 80% center fixed;
+            background: url('${require("../images/background-img.png")}') no-repeat 80% center fixed;
             margin-top: -60px;
             height: 743px;
           }
@@ -106,7 +106,7 @@ const Hero = () => {
 
           @media screen and (max-width: 1150px) {
             .hero {
-              background-image: url('${require("../images/background-img.webp")}') !important;
+              background-image: url('${require("../images/background-img.png")}') !important;
               background-position: center !important;
               margin-top: -60px;
               background-repeat: no-repeat;
@@ -115,7 +115,7 @@ const Hero = () => {
           }
           @media screen and (max-width: 768px) {
             .hero {
-              background-image: url('${require("../images/background-img-mobile.webp")}') !important;
+              background-image: url('${require("../images/background-img-mobile.png")}') !important;
               background-position: center !important;
               margin-top: -112px !important;
               background-repeat: no-repeat;

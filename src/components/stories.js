@@ -1,6 +1,6 @@
 import React, { Component } from "react"
-import Kayla from "../images/Kayla.webp"
-import instagram from "../images/instagram.webp"
+import Kayla from "../images/Kayla.png"
+import instagram from "../images/instagram.png"
 
 class Stories extends Component {
   render() {
