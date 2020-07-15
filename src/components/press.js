@@ -122,6 +122,9 @@ class Press extends Component {
               justify-content: space-between;
               margin-top: 20px;
             }
+            :global(.car) {
+              height: 500px;
+            }
 
             .news-card {
               border: 1px solid #e3e3e3;

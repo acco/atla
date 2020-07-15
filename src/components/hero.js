@@ -37,8 +37,8 @@ const Hero = () => {
             display: flex;
             justify-content: space-between;
             background-color: #000000;
-            background: url('${require("../images/background-img.png")}') no-repeat center center fixed;
-            margin-top: -96px;
+            background: url('${require("../images/background-img.png")}') no-repeat 80% center fixed;
+            margin-top: -60px;
             height: 743px;
           }
           .hero-content {
@@ -108,7 +108,7 @@ const Hero = () => {
             .hero {
               background-image: url('${require("../images/background-img.png")}') !important;
               background-position: center !important;
-              margin-top: -59px;
+              margin-top: -60px;
               background-repeat: no-repeat;
               background-size: cover !important;
             }

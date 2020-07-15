@@ -1,7 +1,7 @@
 import React from "react"
 import { Link } from "gatsby"
 import { BsArrowRight } from "react-icons/bs"
-import logo from "../images/logo1.png"
+import logo from "../images/atla-icon.svg"
 
 const Header = () => {
   return (

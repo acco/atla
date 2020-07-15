@@ -61,8 +61,8 @@ class HelpUs extends Component {
         >
           <h3>Volunteer</h3>
           <p>
-            If you are a LA resident who would like to volunteer with us, we
-            would love your help!
+            If you are an LA County resident who would like to volunteer with
+            us, we would love your help!
           </p>
           <a
             style={{ color: "#61be4e" }}

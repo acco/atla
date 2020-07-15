@@ -19,8 +19,8 @@ const Resources = () => {
             <div className="card-text">
               <h5>Grocery</h5>
               <p>
-                We can help you arrange grocery deliveries, including picking up
-                items at the store on your behalf!
+                Read us your grocery list and we’ll do the shopping and
+                contactless delivery for free!
               </p>
             </div>
           </div>
