@@ -1,8 +1,8 @@
 import React from "react"
-import grocery from "../images/grocery.png"
-import medicine from "../images/medicine.png"
-import phone from "../images/phone.png"
-import publics from "../images/public.png"
+import grocery from "../images/grocery.webp"
+import medicine from "../images/medicine.webp"
+import phone from "../images/phone.webp"
+import publics from "../images/public.webp"
 import { BsArrowRight } from "react-icons/bs"
 
 const Resources = () => {

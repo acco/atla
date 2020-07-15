@@ -1,7 +1,7 @@
 import React, { Component } from "react"
-import operation from "../images/operation.png"
-import pay from "../images/pay.png"
-import safety from "../images/safety.png"
+import operation from "../images/operation.webp"
+import pay from "../images/pay.webp"
+import safety from "../images/safety.webp"
 
 class Operations extends Component {
   render() {
