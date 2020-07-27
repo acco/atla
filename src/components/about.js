@@ -43,12 +43,12 @@ class About extends Component {
           <div className="team_card">
             <img src={Eric} alt="Eric" />
             <h4>Eric</h4>
-            <p>Venice</p>
+            <p>Santa Monica</p>
           </div>
           <div className="team_card">
             <img src={Mitch} alt="Mitch" />
             <h4>Mitch</h4>
-            <p>Bentwood</p>
+            <p>Brentwood</p>
           </div>
           <div className="team_card">
             <img src={Jayen} alt="Ben" />
@@ -58,7 +58,7 @@ class About extends Component {
           <div className="team_card">
             <img src={Anthony} alt="Anthony" />
             <h4>Anthony</h4>
-            <p>Santa Monica</p>
+            <p>Venice</p>
           </div>{" "}
           <div className="team_card">
             <img src={Nisha} alt="Nisha" />
