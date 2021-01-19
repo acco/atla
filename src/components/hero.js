@@ -21,10 +21,7 @@ const Hero = () => {
                   Call for help at <b>(323) 310-0411</b>
                 </button>
               </a>
-              <a
-                href="https://alltogether.typeform.com/to/Fl5Aku"
-                target="_blank"
-              >
+              <a href="/volunteer">
                 <button className="volunteer-button">Volunteer with us</button>
               </a>
             </div>
@@ -153,7 +150,7 @@ const Hero = () => {
               flex-wrap: wrap;
               margin-top: 50px;
             }
-           
+
             .call {
               justify-self: center;
               margin: 0 auto;

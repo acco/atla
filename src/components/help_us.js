@@ -64,11 +64,7 @@ class HelpUs extends Component {
             If you are an LA County resident who would like to volunteer with
             us, we would love your help!
           </p>
-          <a
-            style={{ color: "#61be4e" }}
-            href="https://alltogether.typeform.com/to/Fl5Aku"
-            target="_blank"
-          >
+          <a style={{ color: "#61be4e" }} href="/volunteer">
             <div style={{ marginTop: "2rem", color: "#61be4e" }}>
               <b>
                 {" "}

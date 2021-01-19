@@ -20,11 +20,7 @@ const Footer = () => {
           >
             <p>Resources</p>
           </a>
-          <a
-            style={{ color: "white" }}
-            href="https://alltogether.typeform.com/to/Fl5Aku"
-            target="_blank"
-          >
+          <a style={{ color: "white" }} href="/volunteer">
             <p>Volunteer</p>
           </a>
           <a href="/donate">
